@@ -1,0 +1,21 @@
+{
+  "overview": "FAREPULSE is a premium, demo-data airfare price index dashboard for Smart India Hackathon 2026 that turns permissioned airline/OTA fare observations into a transparent Base-100 Airfare Price Index for India.",
+  "features": [
+    "Interactive live airfare index charts with time filters",
+    "Route explorer with fare analysis and booking-window insights",
+    "Airline analytics comparison across Indian carriers",
+    "Animated India airfare map with airport nodes and flight routes",
+    "Analytics dashboard with sidebar and observations table",
+    "Data quality donut charts and clickable fare alerts",
+    "Methodology, feasibility, impact and API documentation pages"
+  ],
+  "category": "showcase",
+  "tags": [
+    "aviation",
+    "fintech",
+    "analytics",
+    "dashboard",
+    "hackathon"
+  ],
+  "last_updated": "2026-09-02T16:26:01.224Z"
+}
